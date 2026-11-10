@@ -41,9 +41,11 @@
 
 | Пак | Карта (alias) | Аудиофайлов | Аудио | Размер | Файл |
 | --- | --- | :---: | :---: | :---: | --- |
-| **Информатор Твери** | `Tver_2026` | 173 | 10:35 | 13,4 МБ | [`tver-2026.aipack`](packs/tver-2026.aipack) |
-| **Информатор Чугуева** | `Chuguev` | 73 | 2:24 | 2,2 МБ | [`chuguev.aipack`](packs/chuguev.aipack) |
-| **Информатор Чистогорской области** | `Chistogorskaya oblast` | 497 | 26:23 | 23,1 МБ | [`chistogorskaya-oblast.aipack`](packs/chistogorskaya-oblast.aipack) |
+| **Информатор Твери** | `Tver_2026` | 173 | 10:35 | 13,4 МБ | [`tver-2026.aipack`](https://github.com/Leva50305/autoinformant-pro-audio-packs/releases/latest/download/tver-2026.aipack) |
+| **Информатор Чугуева** | `Chuguev` | 73 | 2:24 | 2,2 МБ | [`chuguev.aipack`](https://github.com/Leva50305/autoinformant-pro-audio-packs/releases/latest/download/chuguev.aipack) |
+| **Информатор Чистогорской области** | `Chistogorskaya oblast` | 497 | 26:23 | 23,1 МБ | [`chistogorskaya-oblast.aipack`](https://github.com/Leva50305/autoinformant-pro-audio-packs/releases/latest/download/chistogorskaya-oblast.aipack) |
+
+Все три файла также доступны на странице [**Releases**](https://github.com/Leva50305/autoinformant-pro-audio-packs/releases/latest).
 
 ### Информатор Твери
 
